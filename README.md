@@ -1,1 +1,3 @@
-This gist is to host csv files used for my ML project
+# Credit prediction
+
+This repo is primarily used for hosting the data sets used in my ML project
