@@ -1,3 +1,3 @@
 # Credit prediction
 
-This repo is primarily used for hosting the data sets used in my ML project
+This repo is used to host data sets and notebook of my ML project that I worked on.
